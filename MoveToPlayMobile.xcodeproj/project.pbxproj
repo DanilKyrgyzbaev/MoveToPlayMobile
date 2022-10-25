@@ -14,6 +14,7 @@
 		158E06A72906ED1A0076CF7C /* MoveToPlayMobileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158E06A62906ED1A0076CF7C /* MoveToPlayMobileTests.swift */; };
 		158E06B12906ED1A0076CF7C /* MoveToPlayMobileUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158E06B02906ED1A0076CF7C /* MoveToPlayMobileUITests.swift */; };
 		158E06B32906ED1A0076CF7C /* MoveToPlayMobileUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158E06B22906ED1A0076CF7C /* MoveToPlayMobileUITestsLaunchTests.swift */; };
+		158E06C2290812A00076CF7C /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 158E06C1290812A00076CF7C /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		158E06AC2906ED1A0076CF7C /* MoveToPlayMobileUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MoveToPlayMobileUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		158E06B02906ED1A0076CF7C /* MoveToPlayMobileUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveToPlayMobileUITests.swift; sourceTree = "<group>"; };
 		158E06B22906ED1A0076CF7C /* MoveToPlayMobileUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveToPlayMobileUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		158E06C1290812A00076CF7C /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				158E06972906ED160076CF7C /* ContentView.swift */,
 				158E06992906ED1A0076CF7C /* Assets.xcassets */,
 				158E069B2906ED1A0076CF7C /* Preview Content */,
+				158E06C1290812A00076CF7C /* SplashScreenView.swift */,
 			);
 			path = MoveToPlayMobile;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				158E06982906ED160076CF7C /* ContentView.swift in Sources */,
 				158E06962906ED160076CF7C /* MoveToPlayMobileApp.swift in Sources */,
+				158E06C2290812A00076CF7C /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
